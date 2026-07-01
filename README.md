@@ -12,7 +12,7 @@ every channel by hand.
 
 
 
-![Uploading image.png…]()
+<img width="1349" height="774" alt="image" src="https://github.com/user-attachments/assets/56e9b215-f139-4b31-a10d-254bcaaca811" />
 
 ## Features
 
