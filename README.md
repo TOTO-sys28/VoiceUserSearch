@@ -27,7 +27,7 @@ every channel by hand.
    ```
 2. Copy this folder into `src/userplugins/`:
    ```bash
-   cp -r voiceUserSearch src/userplugins/
+   cp -r voiceUserSearch /src/plugins/voiceUserSearch/
    ```
 3. Build and inject as usual:
    ```bash
