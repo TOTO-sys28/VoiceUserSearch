@@ -1,6 +1,6 @@
 # Voice User Search
 
-A Vencord / Vesktop plugin that lets you instantly search for members currently
+A Vencord  plugin that lets you instantly search for members currently
 connected to voice channels in the selected server — no more clicking through
 every channel by hand.
 
@@ -20,14 +20,19 @@ every channel by hand.
 
 ## Installation
 
-1. Clone the Vencord (or Vesktop) source if you haven't already:
+1. Clone the Vencord  source if you haven't already:
    ```bash
    git clone https://github.com/Vendicated/Vencord
    cd Vencord
    ```
+
+2. Clone repo:
+   ```bash
+   git clone https://github.com/TOTO-sys28/VoiceUserSearch
+   ```
 2. Copy this folder into `src/userplugins/`:
    ```bash
-   cp -r voiceUserSearch /src/plugins/voiceUserSearch/
+   cp -r VoiceUserSearch /src/plugins/VoiceUserSearch/
    ```
 3. Build and inject as usual:
    ```bash
@@ -35,7 +40,7 @@ every channel by hand.
    pnpm build
    pnpm inject
    ```
-4. Restart Discord/Vesktop, then enable **Voice User Search** in
+4. Restart Discord, then enable **Voice User Search** in
    Settings → Plugins.
 
 ## Files
