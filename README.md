@@ -4,6 +4,16 @@ A Vencord  plugin that lets you instantly search for members currently
 connected to voice channels in the selected server — no more clicking through
 every channel by hand.
 
+
+
+
+
+## Demo
+
+
+
+![Uploading image.png…]()
+
 ## Features
 
 - Open a Quick-Switcher-style modal with `Ctrl+Shift+F` (configurable), the
@@ -30,17 +40,17 @@ every channel by hand.
    ```bash
    git clone https://github.com/TOTO-sys28/VoiceUserSearch
    ```
-2. Copy this folder into `src/userplugins/`:
+3. Copy this folder into `src/userplugins/`:
    ```bash
    cp -r VoiceUserSearch /src/plugins/VoiceUserSearch/
    ```
-3. Build and inject as usual:
+4. Build and inject as usual:
    ```bash
    pnpm install
    pnpm build
    pnpm inject
    ```
-4. Restart Discord, then enable **Voice User Search** in
+5. Restart Discord, then enable **Voice User Search** in
    Settings → Plugins.
 
 ## Files
